@@ -9,6 +9,8 @@ verify_ssl = true
 requests = "*"
 bs4 = "*"
 scrapy = "*"
+boto3 = "*"
+bcrypt = "*"
 
 [requires]
 python_version = "3.8"
